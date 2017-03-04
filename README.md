@@ -1,5 +1,5 @@
 # DockerVPN
-Automated install IPsec VPN server on GCP (tested on Ubuntu 16.04)  based on https://github.com/hwdsl2/docker-ipsec-vpn-server
+IPsec VPN automated installation on GCP (tested on Ubuntu 16.04)  based on https://github.com/hwdsl2/docker-ipsec-vpn-server
 
 ###Launch the GCP instance###
 1. Launch Google Computing VM instance(Ubuntu 16.04) 
