@@ -29,4 +29,4 @@ Get your computer or device to use the VPN. Please refer to:
 [Configure IPsec/L2TP VPN Clients](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/docs/clients.md)
 
 ## Important notes
-This script is for automated start Docker VPN propose, the docker VPN project please refer to https://github.com/hwdsl2/docker-ipsec-vpn-server
+This script is for VPN Automated deployment propose, the docker VPN project please refer to https://github.com/hwdsl2/docker-ipsec-vpn-server
