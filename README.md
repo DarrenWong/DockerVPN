@@ -13,5 +13,5 @@ Automated install IPsec VPN server on GCP (tested on Ubuntu 16.04)  based on htt
 2. Copy the run.sh into your PATH, then git clone or download the zip
 3. Cd into your run.sh and get permission to run.sh then start the script
 ```
-	sudo chmod +x run.sh | ./run.sh
+	sudo chmod +x run.sh | sudo ./run.sh
 ```
