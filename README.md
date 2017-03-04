@@ -12,7 +12,8 @@ ssh into VM instance and install Docker first(If you have Docker installed, skip
 ```
 Copy the scrpit into your PATH and cd into it, update your VPN_IPSEC_PSK,VPN_USER and VPN_PASSWORD in the run.sh(rows 13-15) then start the script
 ```
-	sudo chmod +x run.sh | sudo ./run.sh
+	sudo chmod +x run.sh
+	sudo ./run.sh
 ```
 ###VPN Logs and others###
 VPN login details
